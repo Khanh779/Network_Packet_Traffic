@@ -24,11 +24,12 @@ namespace Network_Packet_Traffic.SocketViaAdmin
     {
         Socket socket;
         private bool isListening = false;
-
+        
         public event OnPacketReceived PacketReceived;
 
         public Socket_Monitor()
         {
+           
             var he = Dns.GetHostEntry(Dns.GetHostName());
             var addr = he.AddressList.Where((h) => h.AddressFamily == AddressFamily.InterNetwork).ToList();
             try
