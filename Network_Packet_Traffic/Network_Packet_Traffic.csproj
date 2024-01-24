@@ -61,7 +61,7 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SocketViaAdmin\Socket_Monitor.cs" />
-    <Compile Include="TcpUdpConnectionInformation\TCPUDPInformation.cs" />
+    <Compile Include="GetConnectionsInformation\GetConnectionsInformation.cs" />
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
