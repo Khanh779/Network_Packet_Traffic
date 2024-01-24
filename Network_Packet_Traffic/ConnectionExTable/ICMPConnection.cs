@@ -54,7 +54,7 @@ namespace Network_Packet_Traffic.ConnectionExTable
 
         public ICMPConnection()
         {
-            icmpInfo = LetGetIcmpStatistics();
+            icmpInfo = GetIcmpInfo();
             IcmpConnectionStatics = new IcmpStatics();
         }
 
@@ -96,7 +96,7 @@ namespace Network_Packet_Traffic.ConnectionExTable
 
 
 
-        MIB_ICMPINFO LetGetIcmpStatistics()
+        MIB_ICMPINFO GetIcmpInfo()
         {
             MIB_ICMPINFO icmpInfo = new MIB_ICMPINFO();
 
