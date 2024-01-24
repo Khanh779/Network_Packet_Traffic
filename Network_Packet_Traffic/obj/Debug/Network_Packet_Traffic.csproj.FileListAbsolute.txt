@@ -1,0 +1,9 @@
+D:\Data\Tailieu\Projects\C#\Network_Packet_Traffic\Network_Packet_Traffic\Network_Packet_Traffic\bin\Debug\Network_Packet_Traffic.exe.config
+D:\Data\Tailieu\Projects\C#\Network_Packet_Traffic\Network_Packet_Traffic\Network_Packet_Traffic\bin\Debug\Network_Packet_Traffic.exe
+D:\Data\Tailieu\Projects\C#\Network_Packet_Traffic\Network_Packet_Traffic\Network_Packet_Traffic\bin\Debug\Network_Packet_Traffic.pdb
+D:\Data\Tailieu\Projects\C#\Network_Packet_Traffic\Network_Packet_Traffic\Network_Packet_Traffic\obj\Debug\Network_Packet_Traffic.csproj.AssemblyReference.cache
+D:\Data\Tailieu\Projects\C#\Network_Packet_Traffic\Network_Packet_Traffic\Network_Packet_Traffic\obj\Debug\Network_Packet_Traffic.Properties.Resources.resources
+D:\Data\Tailieu\Projects\C#\Network_Packet_Traffic\Network_Packet_Traffic\Network_Packet_Traffic\obj\Debug\Network_Packet_Traffic.csproj.GenerateResource.cache
+D:\Data\Tailieu\Projects\C#\Network_Packet_Traffic\Network_Packet_Traffic\Network_Packet_Traffic\obj\Debug\Network_Packet_Traffic.csproj.CoreCompileInputs.cache
+D:\Data\Tailieu\Projects\C#\Network_Packet_Traffic\Network_Packet_Traffic\Network_Packet_Traffic\obj\Debug\Network_Packet_Traffic.exe
+D:\Data\Tailieu\Projects\C#\Network_Packet_Traffic\Network_Packet_Traffic\Network_Packet_Traffic\obj\Debug\Network_Packet_Traffic.pdb
