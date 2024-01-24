@@ -3,7 +3,7 @@ using System.Net;
 using System.Net.NetworkInformation;
 using System.Net.Sockets;
 
-namespace Network_Packet_Traffic.GetConnectionsInformation
+namespace Network_Packet_Traffic.ConnectionsInformation
 {
     public class GetConnectionsInformation
     {
