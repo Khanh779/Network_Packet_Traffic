@@ -1,50 +1,7 @@
-## English
-
-# Network Packet Traffic [*`Tuyet Nhi De Thuong`*]
-
-## Description
-- The "Network Packet Traffic" project is a network packet analysis tool, helping to analyze and display information about data packets transmitted over the network.
-- Each method is different but operates in a similar manner.
-
-## Features
-- Analyze and display detailed network packets.
-- Support for various network protocols.
-- The user interface is not yet implemented (mainly due to laziness in design, mostly admiring Nhi).
-- Provide visual charts to understand network traffic better.
-
-## Installation
-To install and run the project, you need to:
-1. Require .Net Framework 4.7 or 4.8 or higher.
-2. Run with administrator privileges to avoid errors or incomplete information retrieval.
-3. Visual Studio and supporting tools to run the program.
-4. Each method will [run] differently, if not done correctly, it will result in errors.
-
-## Contribution
-- I'm very grateful for everyone's contributions to help make this project better every day. If you have any ideas or improvements, please create an Issue or Pull request.
-
-
-
-
-## Tiếng Việt
-
-# Network Packet Traffic [*`Tuyết Nhi Dễ Thương`*]
-
-## Mô tả
-- Dự án "Network Packet Traffic" là một công cụ phân tích lưu lượng gói mạng, giúp phân tích và hiển thị thông tin về các gói dữ liệu được truyền qua mạng.
-- Mỗi phương pháp khác nhau nhưng hoạt động gần giống nhau.
-
-## Tính năng
-- Phân tích và hiển thị chi tiết các gói mạng.
-- Hỗ trợ nhiều giao thức mạng khác nhau.
-- Giao diện người dùng thì chưa làm (`tại lười thiết kế, chủ yếu ngắm Nhi là chính`)
-- Cung cấp các biểu đồ trực quan để hiểu rõ lưu lượng mạng.
-
-## Cài đặt
-Để cài đặt và chạy dự án, bạn cần:
-1. Yêu cầu .Net Framework 4.7 hay 4.8 trở lên gì đó
-2. Chạy với quyền quản trị tránh bị lỗi hoặc ko lấy hết thông tin
-3. Visual Studio và các công cụ hỗ trợ chạy chương trình
-4. Mỗi phương pháp khách nhau sẽ [**`run`**] khác nhau, nếu ko đúng cách sẽ lỗi
-
-## Đóng góp
-- Mình rất vui sự đóng góp của mọi người giúp cho project này ngày càng hoàn thiện hơn. Nếu bạn có ý tưởng hoặc cải tiến, xin vui lòng tạo một Issue hoặc Pull request.
+| Section       | English                                                                                                             | Tiếng Việt                                                                                                    |
+|--------------|---------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|
+| **Project**  | Network Packet Traffic [*`Tuyet Nhi De Thuong`*]                                                                     | Network Packet Traffic [*`Tuyết Nhi Dễ Thương`*]                                                              |
+| **Description** | The "Network Packet Traffic" project is a network packet analysis tool, helping to analyze and display information about data packets transmitted over the network. Each method is different but operates in a similar manner. | Dự án "Network Packet Traffic" là một công cụ phân tích lưu lượng gói mạng, giúp phân tích và hiển thị thông tin về các gói dữ liệu được truyền qua mạng. Mỗi phương pháp khác nhau nhưng hoạt động gần giống nhau. |
+| **Features** | Analyze and display detailed network packets. Support for various network protocols. The user interface is not yet implemented (mainly due to laziness in design, mostly admiring Nhi). Provide visual charts to understand network traffic better. | Phân tích và hiển thị chi tiết các gói mạng. Hỗ trợ nhiều giao thức mạng khác nhau. Giao diện người dùng thì chưa làm (tại lười thiết kế, chủ yếu ngắm Nhi là chính). Cung cấp các biểu đồ trực quan để hiểu rõ lưu lượng mạng. |
+| **Installation** | 1. Require .Net Framework 4.7 or 4.8 or higher. 2. Run with administrator privileges to avoid errors or incomplete information retrieval. 3. Visual Studio and supporting tools to run the program. 4. Each method will run differently; if not done correctly, it will result in errors. | 1. Yêu cầu .Net Framework 4.7 hay 4.8 trở lên. 2. Chạy với quyền quản trị để tránh lỗi hoặc không lấy đủ thông tin. 3. Visual Studio và các công cụ hỗ trợ chạy chương trình. 4. Mỗi phương pháp sẽ chạy khác nhau, nếu không đúng cách có thể gây lỗi. |
+| **Contribution** | I'm very grateful for everyone's contributions to help make this project better every day. If you have any ideas or improvements, please create an Issue or Pull request. | Mình rất vui sự đóng góp của mọi người giúp cho project này ngày càng hoàn thiện hơn. Nếu bạn có ý tưởng hoặc cải tiến, xin vui lòng tạo một Issue hoặc Pull request. |
