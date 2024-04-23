@@ -1,4 +1,4 @@
-# Network Packet Traffic [`Tuyết Nhi Dễ Thương`]
+# Network Packet Traffic [*Tuyết Nhi Dễ Thương*]
 
 ## Mô tả
 - Dự án "Network Packet Traffic" là một công cụ phân tích lưu lượng gói mạng, giúp phân tích và hiển thị thông tin về các gói dữ liệu được truyền qua mạng.
