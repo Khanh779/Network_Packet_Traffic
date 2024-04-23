@@ -15,3 +15,4 @@
 1. Yêu cầu .Net Framework 4.7 hay 4.8 trở lên gì đó
 2. Chạy với quyền quản trị tránh bị lỗi hoặc ko lấy hết thông tin
 3. Visual Studio và các công cụ hỗ trợ chạy chương trình
+4. Mỗi phương pháp khách nhau sẽ **run** khác nhau, nếu ko đúng cách sẽ lỗi
