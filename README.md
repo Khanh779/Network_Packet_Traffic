@@ -1,3 +1,32 @@
+## English
+
+# Network Packet Traffic [*`Tuyet Nhi De Thuong`*]
+
+## Description
+- The "Network Packet Traffic" project is a network packet analysis tool, helping to analyze and display information about data packets transmitted over the network.
+- Each method is different but operates in a similar manner.
+
+## Features
+- Analyze and display detailed network packets.
+- Support for various network protocols.
+- The user interface is not yet implemented (mainly due to laziness in design, mostly admiring Nhi).
+- Provide visual charts to understand network traffic better.
+
+## Installation
+To install and run the project, you need to:
+1. Require .Net Framework 4.7 or 4.8 or higher.
+2. Run with administrator privileges to avoid errors or incomplete information retrieval.
+3. Visual Studio and supporting tools to run the program.
+4. Each method will [run] differently, if not done correctly, it will result in errors.
+
+## Contribution
+- I'm very grateful for everyone's contributions to help make this project better every day. If you have any ideas or improvements, please create an Issue or Pull request.
+
+
+
+
+## Tiếng Việt
+
 # Network Packet Traffic [*`Tuyết Nhi Dễ Thương`*]
 
 ## Mô tả
@@ -16,3 +45,6 @@
 2. Chạy với quyền quản trị tránh bị lỗi hoặc ko lấy hết thông tin
 3. Visual Studio và các công cụ hỗ trợ chạy chương trình
 4. Mỗi phương pháp khách nhau sẽ [**`run`**] khác nhau, nếu ko đúng cách sẽ lỗi
+
+## Đóng góp
+- Mình rất vui sự đóng góp của mọi người giúp cho project này ngày càng hoàn thiện hơn. Nếu bạn có ý tưởng hoặc cải tiến, xin vui lòng tạo một Issue hoặc Pull request.
