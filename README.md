@@ -7,7 +7,7 @@
 ## Tính năng
 - Phân tích và hiển thị chi tiết các gói mạng.
 - Hỗ trợ nhiều giao thức mạng khác nhau.
-- Giao diện thì chưa làm (`tại lười thiết kế, chủ yếu ngắm Nhi là chính`)
+- Giao diện người dùng thì chưa làm (`tại lười thiết kế, chủ yếu ngắm Nhi là chính`)
 - Cung cấp các biểu đồ trực quan để hiểu rõ lưu lượng mạng.
 
 ## Cài đặt
